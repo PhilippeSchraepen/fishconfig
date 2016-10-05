@@ -1,3 +1,4 @@
 package foreign-env
+package nvm
 package osx
 theme bobthefish
